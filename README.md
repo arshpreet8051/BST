@@ -6,4 +6,5 @@ Building a BST
 3) Insertion in BST
 4) Min and Max node in BST
 5) Inorder predeccessor and inorder successor in BST
-6) 
+6) Deletion in BST
+7) Validate BST
