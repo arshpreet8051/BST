@@ -9,3 +9,4 @@ Building a BST
 6) Deletion in BST
 7) Validate BST
 8) LCA in BST
+9) 2 SUM in BST
