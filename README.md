@@ -8,3 +8,4 @@ Building a BST
 5) Inorder predeccessor and inorder successor in BST
 6) Deletion in BST
 7) Validate BST
+8) LCA in BST
