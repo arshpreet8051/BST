@@ -11,3 +11,4 @@ Building a BST
 8) LCA in BST
 9) 2 SUM in BST
 10) Flatten a BST into sorted Linked List
+11) BST to Balanced BST
