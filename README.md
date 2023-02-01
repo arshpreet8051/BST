@@ -12,3 +12,4 @@ Building a BST
 9) 2 SUM in BST
 10) Flatten a BST into sorted Linked List
 11) BST to Balanced BST
+12) BST from given Preorder traversal
