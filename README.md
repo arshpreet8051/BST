@@ -19,4 +19,5 @@ Building a BST
 # -----------------------------------------------------------
 ## Extras
 -> Find the Closest Element in BST (https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)  
--> Minimum and Maximum in the Binary Tree (https://www.codingninjas.com/codestudio/problems/min-and-max-of-binary-tree_5673?leftPanelTab=0)
+-> Minimum and Maximum in the Binary Tree (https://www.codingninjas.com/codestudio/problems/min-and-max-of-binary-tree_5673?leftPanelTab=0)  
+-> Check BST (NOTE)
