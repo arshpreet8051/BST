@@ -18,4 +18,5 @@ Building a BST
 15) Largest BST in Binary Tree (size and sum)
 # -----------------------------------------------------------
 ## Extras
--> Find the Closest Element in BST (https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)
+-> Find the Closest Element in BST (https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)  
+-> Minimum and Maximum in the Binary Tree (https://www.codingninjas.com/codestudio/problems/min-and-max-of-binary-tree_5673?leftPanelTab=0)
