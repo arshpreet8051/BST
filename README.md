@@ -16,3 +16,6 @@ Building a BST
 13) Merge 2 BST's
 14) Sorted Linked List to BST
 15) Largest BST in Binary Tree (size and sum)
+# -----------------------------------------------------------
+## Extras
+-> Find the Closest Element in BST (https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)
