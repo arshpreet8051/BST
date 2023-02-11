@@ -1,3 +1,5 @@
+// 2 Approaches 
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -42,3 +44,8 @@ node* BST_from_preorder(int pre[],int n){
 
 
 }
+
+// Anotger approach is base on the fact that inorder traversal of a BST is Sorted
+
+// step -> 1 sort preorder to get inorder
+// step -> 2 apply logic to to construct BST from inorder
