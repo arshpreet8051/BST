@@ -19,6 +19,10 @@ class node{
 
 // we will create playing with range of node value of BST
 
+
+// Take care or 2 conditions
+// 1 ---->  iterator out of bounds ( i > n-1 )
+// 2 ---->  Violation of BST property (pre[i] > maxi or pre[i] < mini) 
 node* BST_constructor(int pre[],int n,int &i,int mini,int maxi){
 
     if(i > n-1){return NULL;}
@@ -45,7 +49,8 @@ node* BST_from_preorder(int pre[],int n){
 
 }
 
-// Anotger approach is base on the fact that inorder traversal of a BST is Sorted
+// Another approach is base on the fact that inorder traversal of a BST is Sorted
 
 // step -> 1 sort preorder to get inorder
 // step -> 2 apply logic to to construct BST from inorder
+
