@@ -5,7 +5,7 @@ Building a BST
 2) Search in BST (iterative)
 3) Insertion in BST
 4) Min and Max node in BST
-5) Inorder predeccessor and inorder successor in BST (pending)
+5) Inorder predeccessor and inorder successor in BST 
 6) Deletion in BST
 7) Validate BST
 8) LCA in BST
