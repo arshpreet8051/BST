@@ -21,4 +21,5 @@ Building a BST
 -> Find the Closest Element in BST (https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)  
 -> Minimum and Maximum in the Binary Tree (https://www.codingninjas.com/codestudio/problems/min-and-max-of-binary-tree_5673?leftPanelTab=0)  
 -> Check BST (NOTE)  
--> Minimun Distance between BST nodes https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/
+-> Minimun Distance between BST nodes https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/  
+-> Minimum distance between 2 given nodes https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
