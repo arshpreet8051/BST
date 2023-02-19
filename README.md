@@ -22,4 +22,5 @@ Building a BST
 -> Minimum and Maximum in the Binary Tree (https://www.codingninjas.com/codestudio/problems/min-and-max-of-binary-tree_5673?leftPanelTab=0)  
 -> Check BST (NOTE)  
 -> Minimun Distance between BST nodes https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/  
--> Minimum distance between 2 given nodes https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
+-> Minimum distance between 2 given nodes https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1  
+-> Fixing Two swapped nodes of a BST https://practice.geeksforgeeks.org/problems/6c4053871794c5e7a0817d7eaf88d71c4bb4c2bc/1
